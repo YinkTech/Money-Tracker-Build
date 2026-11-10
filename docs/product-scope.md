@@ -1,32 +1,32 @@
 - Target audience.
--- freelancer
--- student making side income
--- salary earners
--- salary earners with side gig
+--- freelancer
+--- student making side income
+--- salary earners
+--- salary earners with side gig
 - Problem statement.
--- unable to track income and expenses 
--- monitouring expenses and knowing the reason
--- unable to deternime savings checking pensions or stock funds from income
--- unable to trust and create wealth path
+--- unable to track income and expenses 
+--- monitouring expenses and knowing the reason
+--- unable to deternime savings checking pensions or stock funds from income
+--- unable to trust and create wealth path
 - Proposed solution.
--- an application that calculate all the user expense
--- an application that allows user to track all there expense and income
--- an app that suggest stocks or bonds to invest in 
--- an app that locks fund and create a see throungh to all investment 
--- app that teaches wealth creation
+--- an application that calculate all the user expense
+--- an application that allows user to track all there expense and income
+--- an app that suggest stocks or bonds to invest in 
+--- an app that locks fund and create a see throungh to all investment 
+--- app that teaches wealth creation
 Core MVP features.
--- balance checking
--- history 
--- stocks and bonds 
--- stock compare
--- learn
--- calculation
--- income track 
--- expense track
--- user login and profile uptating 
--- feedback
--- loan and debits calculation and inventory
+--- balance checking
+--- history 
+--- stocks and bonds 
+--- stock compare
+--- learn
+--- calculation
+--- income track 
+--- expense track
+--- user login and profile uptating 
+--- feedback
+--- loan and debits calculation and inventory
 
 -Features excluded from the MVP.
--- stocks investment
--- you cant add money to the application 
+--- stocks investment
+--- you cant add money to the application 
