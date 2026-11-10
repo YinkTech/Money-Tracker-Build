@@ -32,8 +32,4 @@
 
 # Features excluded from the MVP.
 ### stock investment
-<<<<<<< HEAD
 ### you can't add money to the application 
-=======
-### you can't add money to the application 
->>>>>>> 4bbe33d (correct divergent error)
