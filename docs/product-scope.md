@@ -1,32 +1,35 @@
-- Target audience.
---- freelancer
---- student making side income
---- salary earners
---- salary earners with side gig
-- Problem statement.
---- unable to track income and expenses 
---- monitouring expenses and knowing the reason
---- unable to deternime savings checking pensions or stock funds from income
---- unable to trust and create wealth path
-- Proposed solution.
---- an application that calculate all the user expense
---- an application that allows user to track all there expense and income
---- an app that suggest stocks or bonds to invest in 
---- an app that locks fund and create a see throungh to all investment 
---- app that teaches wealth creation
-Core MVP features.
---- balance checking
---- history 
---- stocks and bonds 
---- stock compare
---- learn
---- calculation
---- income track 
---- expense track
---- user login and profile uptating 
---- feedback
---- loan and debits calculation and inventory
+# Target audience.
+### freelancer
+### student making side income
+### salary earners
+### salary earners with a side gig
 
--Features excluded from the MVP.
---- stocks investment
---- you cant add money to the application 
+# Problem statement.
+### unable to track income and expenses 
+### monitoring expenses and knowing the reason
+### unable to determine savings, checking pensions or stock funds from income
+### unable to trust and create a wealth path
+
+# Proposed solution.
+### an application that calculates all the user's expenses
+### an application that allows users to track all their expenses and income
+### an app that suggests stocks or bonds to invest in 
+### an app that locks funds and creates a see-through to all investments 
+### app that teaches wealth creation
+
+# Core MVP features.
+### balance checking
+### history 
+### stocks and bonds 
+### stock comparison
+### learn
+### calculation
+### income tracking 
+### expense tracking
+### user login and profile updating 
+### feedback
+### loan and debits calculation and inventory
+
+# Features excluded from the MVP.
+### stock investment
+### you can't add money to the application 
